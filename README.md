@@ -1,2 +1,20 @@
-# caprice-ringold-portfolio2
-Caprice Ringold is a certified AI professional, Prompt Engineer, Digital Marketing Strategist, and Founder of Classicc Butterfly. She specializes in Generative AI, AI-powered content creation, workflow automation, and brand strategy, leveraging AI to solve business problems, create impactful marketing campaigns, and build mission-driven brands.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/900f9c9b-0718-4576-81ec-e3bfaab1bcec
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
